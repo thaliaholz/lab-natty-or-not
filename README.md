@@ -19,33 +19,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+O impacto das telas em crianças pequenas
+# Título do Projeto O impacto das telas em crianças pequenas ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+É uma imagem criada atráves do ChatGPT sobre a visão dele sobre o impacto de uso de telas em crianças pequenas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Microsoft Bing
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei a IA que criasse uma imagem realista de como seria uma criança viciada em telas nos dias de hoje, de uma forma impactante.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![_094e4710-67f9-4175-9964-8b2c3475e15e](https://github.com/user-attachments/assets/a784727f-6b4e-4e03-8c1e-45ca5dc6851b)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Achei legal pelo fato de pensar 'parecido' com um ser humano.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
